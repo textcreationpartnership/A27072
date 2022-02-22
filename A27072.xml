@@ -1,0 +1,623 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tvvo meditations 1. Of death. 2. Of life eternal by N.B., a sequestred minister of Jesus Christ.</title>
+            <author>N. B., sequestred minister of Jesus Christ.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 61 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27072</idno>
+            <idno type="STC">Wing B146</idno>
+            <idno type="STC">ESTC R13468</idno>
+            <idno type="EEBO-CITATION">12335130</idno>
+            <idno type="OCLC">ocm 12335130</idno>
+            <idno type="VID">59763</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27072)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59763)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 932:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tvvo meditations 1. Of death. 2. Of life eternal by N.B., a sequestred minister of Jesus Christ.</title>
+                  <author>N. B., sequestred minister of Jesus Christ.</author>
+               </titleStmt>
+               <extent>[4], 19 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Death --  Meditations.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:59763:1" rendition="simple:additions"/>
+            <p>TVVO MEDITATIONS:
+<list>
+                  <item>1. <hi>Of</hi> DEATH.</item>
+                  <item>2. <hi>Of</hi> LIFE ETERNALL.</item>
+               </list>
+            </p>
+            <p>By <hi>N. B.</hi> a Sequeſtred MINISTER OF <hi>JES<g ref="char:V">Ʋ</g>S CHRIST.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1648.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:59763:2"/>
+            <pb facs="tcp:59763:2" rendition="simple:additions"/>
+            <head>To his dear Parents, M<hi rend="sup">r</hi>. <hi>C. T. B.</hi> and M<hi rend="sup">rs</hi>. <hi>E. B.</hi> in<g ref="char:EOLhyphen"/>creaſe of grace in this Life, and everlaſting glory in the life to come.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat this world is <hi>Vanity</hi> and <hi>Vexation,</hi>
+               <note place="margin">E<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>leſ. 1.1</note> is no need to tell: your more then fourſcore years apiece can preach <hi>Labour</hi> and <hi>Sorrow.</hi>
+               <note place="margin">Pſal. 19.1</note> The Lord hath ſufficiently wea<g ref="char:EOLhyphen"/>ned us (if at leaſt we will not be guilty of wilfull folly) from the frothy milk of this world; he hath not ſpared his muſtard, wormwood and gall: And, as if that were not ſufficient to take off our doting appetites, he hath even taken the world it ſelf quite from us; we have no breaſts to ſuck, no world to love. Oh! what a ſweet ad<g ref="char:EOLhyphen"/>vantage have we now (had we but wiſdome and grace to improve it) to fix our loves only upon God and Heaven, now we are freed from other ſuitors? Why doe we not advance our longings thither, where we may be yet more ſecure from Plunder and Sequeſtration? Here we have a little, (though a very little, beſides our lives) there we ſhall have nothing that Theeves can med<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le with. We have (I be<g ref="char:EOLhyphen"/>lieve we have) long agoe learn'd, to be willing to live, and yet con<g ref="char:EOLhyphen"/>tent to die, if God ſo pleaſe: ſurely we have been trewants, if by this time we cannot adde one line to that leſſon, and now be willing to die, and yet content to live, if God ſo pleaſe. Tell me (for ingenuouſly I know not) what is there that may make us in love with Life, or in fear of Death? For the firſt (love of the preſent world) I do not much ſuſpect you; you have been ſufficiently knock'd off from that dotage. Againſt the ſecond, there is none but wants incouragements. That <hi>King of feares,</hi> and fear of Kings, That <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">Io<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 18.14.</note> That mighty Mawkin, That terrible Scare-crow, That aſhcolour'd Vizard, is many times ready to put us Children beſides our little wits. One good preſervation againſt the frights of this Bug-bear, is to get acquaintance with the Skeleton: ſo have I known a fair Lady, and a Coy, by familiar conver<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, with an hard-favour at laſt, by degrees to like and love. Why not ſo here? Surely ignorance of Death, of<g ref="char:EOLhyphen"/>times is one (if not the only) cauſe we are ſqueamiſh; did we but
+<pb facs="tcp:59763:3"/>know whence ſhe is, and whither ſhe tends, we ſhould bid her better welcome. Theſe Meditations were my comfort as well as my im<g ref="char:EOLhyphen"/>ployment in my late long ſickneſſe: I preſent them to you now, as an expreſſe of my duty and thankes for your care and coſt from my Child<g ref="char:EOLhyphen"/>hood untill now; for even yet (ſuch is the will of God, whoſe juſtice I ſee quite through the malignity of the world) I feed upon part of that little bread which is ſcarce ſufficient for your own nouriſhment. I hope and wiſh your Firkin and cruſe may not be ſpent till the in<g ref="char:EOLhyphen"/>fluence of Heaven ſend peace and proſperity to our King and Country. I know this preſent will be pleaſing for my ſake, I wiſh it may be pro<g ref="char:EOLhyphen"/>fitable for your own. You cannot but every day (one way or other) be put in minde of your diſſolution; you have pricks in the fleſh, the Meſſengers of Death to buffet you, and no intreaty can take them off, but they and you muſt remove together. I wiſh you may improve theſe and other Meditations ſo to your comfort, that at laſt, even Death it ſelf may be your conſolation. The God of Heaven bleſſe and keep you in his faith, in his fear, the Lord preſerve and reſtore our King, and in his good time ſend us peace, in the mean time ſend us patience; God forgive and convert our Enemies; and once more look gratiouſly upon our Land and Nation. Amen. <hi>Amen</hi>
+            </p>
+            <closer>
+               <signed>N. B.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="meditation">
+            <pb n="1" facs="tcp:59763:3" rendition="simple:additions"/>
+            <head>Of Death.</head>
+            <p n="1">1. <seg rend="decorInit">T</seg>He thoughts of <hi>Death</hi> are not alway plea<g ref="char:EOLhyphen"/>ſant: alwayes profitable. What Medita<g ref="char:EOLhyphen"/>tions more needfull, (O my ſoule) or neerer allyed to wiſdome then thoſe of thy latter end? what more uncertain then Life, or more ſure then Death? Mine age is too little to learn to live, not enough to learne to Die. 'Tis good then by frequent thoughts of Death, to make her familiar, that when ſhe comes, ſhe may not looke ſtrangely.</p>
+            <p n="2">2. And what is Death but the wink of life? the reſt of Na<g ref="char:EOLhyphen"/>ture? the ſleep of fleſh and ſence? the taking downe theſe few ſticks thy earthly tabernacle was built with? the putting off and laying up thy garments of fleſh and blood for a night, till the great and joyfull day come? the Farewell and goodnight of two old friends parted for a ſeaſon? Our journey and paſſage into that other world, for which we, and this world were made? our ſouls Gaoles delivery from the priſon of the body, or birth delivery into a better world? and ſo the way, the gate of life?</p>
+            <p n="3">3. And this is that which we commonly call <hi>Death:</hi> though there be others alſo of her name. As, There is a <hi>Death in ſin:</hi>
+               <note place="margin">Epheſ. 2.1,</note> this is a miſerable, and yet this is thy condition (O my ſoul!) <hi>Dead in treſpaſſes and ſins,</hi> till thy mercy (O God!<note place="margin">Col. 2.13.</note>) in thy Son hath quickned me by a full remiſſion. And thus we come to ano<g ref="char:EOLhyphen"/>ther Death; a <hi>Death to Sin,</hi> or a <hi>Death of ſin:</hi> this may well be called the <hi>firſt Death,</hi> for it is the beſt Death: Happy is he that hath his part therein,<note place="margin">Rev. 20.6.</note> for over him <hi>The laſt Death ſhall have no power:</hi> And well may this be called <hi>laſt,</hi> for it is laſting, ever<g ref="char:EOLhyphen"/>laſting: it is ſo great, there can be none with it; ſo infinite, there can be none beyond it. The horrours and terrours of this Death, no mortall is able to ſee and live. Oh! what horrour then is it to thoſe that feel them! But O Lord moſt holy, O God moſt mighty, O holy and mercifull Redeemer, deliver me not unto
+<pb n="2" facs="tcp:59763:4"/>the bitter paines of eternall Death. Thy death (O Chriſt) hath ſaved me from this: and thou wenteſt downe to hell that I might not goe thither:<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m. 6.4.</note> and my firſt death and buriall with Thee by <hi>Bap<g ref="char:EOLhyphen"/>tiſme</hi> (which is my firſt Reſurrection too) ſhall be my paſſe port through and over the worſt of Death.</p>
+            <p n="4">4.<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 1.13.</note> Thou (O Lord) <hi>mad'ſt not death,</hi> but Man found it out by the works of his hands: Man brought forth ſin, and ſin brought forth death; and no marvaile if the child be uglie that is begotten of ſuch parents. And this generation of vipers hath ſo thriven in this world,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n. 1.18.</note> as if <hi>Increaſe and multiply,</hi> and <hi>Repleniſh the earth,</hi> had been onely ſpoke to them. What thing is there in the world that is not ſin, or oft-times a provocation thereunto? What thing is there in the world that is not Death, or oft-times an inſtrument thereun<g ref="char:EOLhyphen"/>to? Nothing ſo ſmall but is big enough to hide a Death under it. A Flie hath choakt one, a Grape-ſtone another, an haire of the head has done as much to a third: A prick of a thorne hath let in Death, a point of a Sword could doe no more. Death lurks ſometimes in our meat, and ſometimes in our drink, and ſometimes in the very aire: Man hath not more helps of living, then he hath means of dying. But (O Lord) how ſweetly did thy Wiſdome and Juſtice accord, when thou madeſt Death the revenge of ſin, and ſo plagued us with a brood of our owne begetting? But as the <hi>wages,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om. 6.23.</note> ſo the <hi>end of ſin is death:</hi> Thy Juſtice (O God) hath made it the <hi>wages;</hi> thy Mercy hath made it the <hi>end: Death</hi> came in by <hi>ſin,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om. 5.12.</note> and <hi>ſin</hi> goes out by <hi>death.</hi> Sin is a Viper deſcended of the old Serpent, and Death is her off-ſpring born to the deſtruction of her Mother. Thy mercy (O Chriſt) that took away my ſin, could al<g ref="char:EOLhyphen"/>ſo have taken away my death; but thy wiſdome choſe rather to alter then aboliſh it.<note place="margin">Cor. 15.55.</note> Thou haſt cut out the <hi>ſting,</hi> croſt out the <hi>curſe,</hi> and now with <hi>Eſau</hi> it meets not with <hi>frownes,</hi> but <hi>kiſſes:</hi> ſurely the <hi>bitterneſſe of death is over.</hi>
+               <note place="margin">Gen. 33.4.</note> Thou (O Saviour) by thy Death haſt ſo ſweetned Death,<note place="margin">Sam. 15.32.</note> and perfum'd the Grave, that it ſhall not grieve me when my Sun is ſet, to ſleep a while in that ſilent bed.</p>
+            <p n="5">5.<note place="margin">Cor. 15.26.</note> And thus our <hi>last enemy</hi> is become our firſt friend we meet with in our paſſage to that other world: who as ſhe leads thy bo<g ref="char:EOLhyphen"/>dy through corruption and rottenneſſe, ſo ſhe guides thy ſoule to life and happineſſe: as ſhe cloſes the eye of thy body, ſo ſhe opens much more the eye of thy ſoule: if thy friends mourne to ſee thee
+<pb facs="tcp:59763:4"/>dead, thy ſoule rejoyces much more to ſee him <hi>who was dead,</hi>
+               <note place="margin">Rev. 1.18</note> 
+               <hi>and is alive:</hi>
+               <note place="margin">Pſal. 41.5.</note> thy Name and Memory <hi>periſhes</hi> perhaps among the ſons of men, but is everlaſtingly recorded among the ſons of God.</p>
+            <p n="6">6. Surely it is but the worſt part of Man that is in the reach and power of death: our ſoules are ſo far from damage, that they gaine more then the body loſes. The worſt of Death is but cor<g ref="char:EOLhyphen"/>ruption, and that works but upon a carkaſe that neither feels nor cares. We carry heaven and earth about us while we live, when we die, each part returnes homewards. Kings and Prophets, Pa<g ref="char:EOLhyphen"/>triachs and Apoſtles, have all gone the ſame way, and who can be ſo fond as to hope exemption? Whoever is cloathed with fleſh and blood, is engaged unto death for thoſe garments, and Death can diſtraine no farther then her owne, (theſe garments.) Tis true, ſhe deſires and a ſpires higher, faine would ſhe raviſh the ſoule, but our <hi>Joſeph</hi> is <hi>too chaſte</hi> for her embracements,<note place="margin">Gen. 39.12</note> and flyes away with<g ref="char:EOLhyphen"/>out his garments.</p>
+            <p n="7">7. The time of Death for her comming is uncertaine, becauſe ſhe would alway be expected: for ſometimes ſhe takes advan<g ref="char:EOLhyphen"/>tage, and ſtrikes ſuddenly, though moſt times ſhe ſends her har<g ref="char:EOLhyphen"/>bingers (age and ſickneſſe) to give notice of her comming. The time of Death for her continuante when ſhe comes is but gueſt-wiſe for a night; and her firſt word is, To bed: ſhe muſt be our bed-fellow for a night, and the earth our bed, where claſpt in her cold armes we be til we be as cold as ſhe. This is cold news thinks fleſh and blood, who ſeldome bids her gueſt welcome; fain would ſhe make delaies; ſhe thinks the night will be long, and therefore deſires to ſit up a little longer. But Death (though ſometimes ſhe ſeeme to admit of diſcourſe, yet ſhe) reſolutely holds her conclu<g ref="char:EOLhyphen"/>ſion, and will not be denyed, though ſtill we deſire (ſuch is our weakneſſe) to hug our diſeaſes, till they raviſh us of all that is fleſh and blood, and leave us fit for none but Death. And now Death will forbeare no longer, but thruſts out ſickneſſe, and enters the bed her ſelfe. Yet ſhe ſtayes not long there, ſhe and her bed-fel<g ref="char:EOLhyphen"/>low are ſoone removed one Story lower to the floore, and then one Story more to the grave. And yet there is no abiding: That which is to full of alteration cannot be permanent.<note place="margin">Pſal. 30.5.</note> 
+               <hi>Death may en<g ref="char:EOLhyphen"/>dure for a night, but lift commeth in the morning.</hi> When that day breaks, the ſhadowes fly away, and Night and Death ſhall be no more.</p>
+            <p>
+               <pb n="4" facs="tcp:59763:5"/>But what company ſhall I meet with in the houſe of death? What?<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 17.14.</note> 
+               <hi>Corruption</hi> and <hi>Wormes:</hi> Theſe are my neere kindred. Curruption was my mother, and begat me; ſhe is now my daugh<g ref="char:EOLhyphen"/>ter, I beget her. The wormes are my ſiſters by the mothers ſide; they are now my children: as a Mother I breed them; as a Father I feed them: a luſty kindred! Surely they cannot but bid me wel<g ref="char:EOLhyphen"/>come and be glad to meet me there: Why ſhould not I be ſo to them? However I may be coy of their acquaintance here, yet there we ſhall be more then intimate, I ſhall embrace them in my armes, and hug them in my boſome; I ſhall feaſt them with my fleſh, yea with all my heart and my Liver too: I ſhall give them free quarters; for ſhould I grudge, they would be ſo bold as to take it: But much good doe it them, it is the laſt banquet I ſhall ever make them, and the laſt time I ſhall ever meet them; after this ſupper, good-night kindred.</p>
+            <p n="8">8. We doe not then indeed, (and but ſcarcely in appearance ſeeme to) loſe by Death, for what is the World and all that therein we leave behind us? her beſt things are vanitie, the reſt vexation.<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 107.34.</note> How is ſhe falne ſince our fall, from a <hi>fruitfull Land,</hi> to a <hi>barren wilderneſſe?</hi> how is ſhe fruitfull now onely in thornes and troubles? how are all her pleaſures vaine, and but in appea<g ref="char:EOLhyphen"/>rance? while her ſorrowes are reall. What are all her pomps and honours, but empty bubbles and baubles to pleaſe fond children? And what is our fleſh, but a bundle of diſeaſes, a bladder full of muddy water, a lumpe of rottenneſſe? And what was that thing which we once call'd Life, but a perillous pilgrimage, a ſea of trou<g ref="char:EOLhyphen"/>bles, a labyrinth of perplexitie?</p>
+            <p>But that which is worſe then all the reſt, without which the reſt were not evill;<note place="margin">Rev. 4.40.</note> that which is the death in the pot, the leaven of the whole lump,<note place="margin">Cor. 5.6.</note> and that which imbitters the whole life, is ſin, and a neceſſity of ſo doing: ſo that while we live, we cannot but ſin: we are plunged into ſuch an inevitable habit of miſchiefe and and miſerie, that to live and to ſin are of like neceſſity, and we muſt leave off both or neither. And that which makes full this part of our miſery, we delight in our priſon, we ſing in our cage, we are proud of our chaines, and too often take pleaſure in the jingling of our fetters. Death now is our freedome from all theſe. Why doſt thou droop then?<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ke 21.28.</note> (O my ſoule) lift up thine head ra<g ref="char:EOLhyphen"/>ther when thy redemption draweth neere; when death ſhall open,
+<pb facs="tcp:59763:5"/>thy priſon dores, be not loath to goe at liberty;<note place="margin">Exo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> dote no longer on thy old maſter (the World) thy Wife and Children (thy fleſh and corruptions) as to repine at the year of Jubile, or refuſe thy Free<g ref="char:EOLhyphen"/>dome: away with theſe baſe follies, and mount thy thoughts to higher wiſdome; yea, I ſhall ſing and rejoyce, when my Soul is eſca<g ref="char:EOLhyphen"/>ped as a bird out of the ſnare of the fowler,<note place="margin">Pſa. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> 
+               <hi>the ſnare is broken and I am delivered.</hi>
+            </p>
+            <p n="9">9. What is Death but a ſleep, and the Grave a bed? all theſe are ſo near of kind, that oft times they are called by the ſame names, and the very feature of their countenance give them to be of near alliance. It is the weakneſſe then of fleſh and blood that deſires the one, and abhors the other. When we are weary of a dayes labour, we deſire to goe to bed, and reſt at night, why ſhould it not be ſo with us here too? All our dayes are <hi>labour and ſorrow,</hi> and we may well be weary:<note place="margin">Pſal. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 10.</note> Why ſhould we, when night is come, be like froward children, loath to goe to bed? eſpecially to that bed where we ſhall ſleep in the Lord,<note place="margin">Rev. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 13</note> and <hi>reſt from our Labours;</hi> to that bed, that ſhall be more eaſie, and freer from diſturbance then any beds of Down; to that bed where we ſhall ſleep more ſecurely, and riſe againe more ſurely then from any other bed we ſhall take up in our ſtrongeſt health. Away then (O my ſoul) away with whatſoever may nouriſh diſtruſt or diſtraction! The Tempeſt is almoſt over, and thou art entring the harbour, and haven of ſafety! This preſent Earth-quake ſhall break off thy chaines,<note place="margin">Acts <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> and open the priſon dores for thy delivery: thou ſhalt paſſe through the iron gate of Neceſſity, and the earthen gate of Mortality, to the gol<g ref="char:EOLhyphen"/>den gate of Liberty &amp; Eternity: Thou art now trimming and making ready (O my ſoul) to go to bed to thy ſpouſe, thy Bridegroome: give it ſome other name, it is not modeſty that makes thee unwilling; either fooliſhneſſe, or fearfulneſſe, or at leaſt want of affection makes thee draw back. <hi>Why art thou ſo ſad then, (O my ſoul!)</hi>
+               <note place="margin">Pſal. 4 <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Cant. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> 
+               <hi>and why art thou ſo diſquieted within me?</hi> make cheerfull ſpeed to meet thy <hi>Bride<g ref="char:EOLhyphen"/>groome:</hi> Thou art thy <hi>wel-beloveds,</hi> and thy <hi>wel-beloved is thine:</hi> The firſt ſleep ever man had, got him a wife, the laſt ſteep he has,<note place="margin">Gen. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> gets him a husband.</p>
+            <p n="10">10. But the names of things, oft-times, are more terrible then the things themſelves: How many great things have ſome great Con<g ref="char:EOLhyphen"/>querours effected by the power only of the Name and Fame!<note place="margin">Gen. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 2 Reg. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 24.13</note> Death is this Conquerour, this <hi>Nimrod,</hi> this <hi>mighty Hunter:</hi> more juſtly then <hi>Senacherib</hi> can ſhe boaſt, where I ſet my foot <hi>I dry up rivers, (rivers
+<pb facs="tcp:59763:6"/>of blood</hi> in the <hi>veines,</hi> of <hi>milk</hi> in the <hi>breaſts,</hi> of <hi>marrow</hi> in the <hi>bones</hi>) where are the gods of <hi>Heva,</hi> and <hi>Iva,</hi> and of <hi>Sepharvaim?</hi> yea where is proud <hi>Senacharib</hi> himſelf! and of the Kings of the Earth ſhe ſaith, <hi>It is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that make you lick the duſt of the Earth, and the ſlime of the pit; Let not your idols of gold, and greatneſſe wherein you truſt, deceive you.</hi> And yet what is this Death more,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</note> or beyond a Name? <hi>More eſt mor<g ref="char:EOLhyphen"/>ſus, quia mordet.</hi> Death is a biting, and it is called <hi>Death</hi> becauſe it doth <hi>Eate:</hi> it takes a <hi>Morſell,</hi> and it ſwallowes a <hi>mouthfull,</hi> but it ſhall never digeſt it,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 2.10.</note> like <hi>Jonah's</hi> whale <hi>it ſhall caſt it up againe</hi> ſafe and intire.<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> m. 15</note> Death is called a <hi>departure,</hi> a parting of two old Friends for a ſeaſon,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 15. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 9. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 47. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 25.8.</note> that they may <hi>receive each other againe</hi> for ever. It is called an <hi>expiring, a giving up of the Ghoſt, a ſleeping with our Fathers, a ga<g ref="char:EOLhyphen"/>thering to our people:</hi> And are not theſe fearfull Names, <hi>(ô my ſoul!)</hi> doeſt thou not tremble? or not bluſh rather, that thou haſt been frighted with theſe bug-beares! why ſhouldeſt thou be either coy or fearfull? 'tis but a Mawkin, draw near, it will not, it cannot hurt thee.</p>
+            <p n="11">11. Neither doeſt thou want witneſſes of comfort or incourage<g ref="char:EOLhyphen"/>ment; holy Scriptures are frequent upon this Theam.<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</note> 
+               <hi>Solomon</hi> that was as famous for his <hi>Wiſdome</hi> as for his <hi>Wealth;</hi> who had as much as this world could afford to make a man in love with this <hi>Life,</hi> yet plainly tels thee,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eſ. 7.2</note> 
+               <hi>That the day of Death is better then the day of thy Birth.</hi> And nature ſeemes to ſay as much, when Heathen (guided by her light only) would <hi>mourne</hi> at the <hi>Birth,</hi> and <hi>Feaſt</hi> at the <hi>Funeral</hi> of their <hi>Friends and Children.</hi> Heathen knew but the one half of the good of Death, (a ceſſation of miſeries) thou <hi>(ô my ſoul!)</hi> knoweſt the other, (a fruition of felicity.) Let not an Heathen then <hi>out-die</hi> thee in <hi>cheerfulneſſe. Bleſſed</hi> indeed <hi>are thoſe that live in the Lord;</hi> but that is not all;<note place="margin">Rev. 14.13 Cor. 14.13</note> 
+               <hi>Bleſſed</hi> alſo <hi>are the Dead that die in the Lord,</hi> even ſo ſaith the Spirit, for <hi>they reſt from their labours.</hi>
+            </p>
+            <p n="12">12.<note place="margin">Ins. 1.</note> 
+               <hi>O Death! how bitter is the remembrance of thee to a man that lives in pleaſure, in his own poſſeſſions, and hath nothing to vex him?</hi> But <hi>ô Death! how ſweet, how acceptable is the remembrance of thee, and how welcome is thy preſence to him that dwels in miſeries and vexations; and hath hopes of glories hereafter in everlaſting poſſeſſion?</hi> how ſweet is that refreſhing thou giveſt to weary Pilgrims? how welcome art thou to thoſe that know whence thou commeſt, and whither rendeſt? who but he that is all fleſh and blood, would deſire to lurk and <hi>hide himſelf among the ſtuffe</hi> and traſh of this vile world,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am. 10.</note> rather then goe to
+<pb facs="tcp:59763:6"/>that Crown and Kingdome thou leadſt unto? who but he that has quite loſt his judgement, that ſhall conſider the miſeries of the preſent, and the felicities of the world to come, but will ſay out of choice, what the Prophet ſpake out of paſſion, <hi>It is better for me to die,</hi>
+               <note place="margin">Ion<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> 
+               <hi>then to live.</hi>
+            </p>
+            <p n="13">13. But what is the matter now <hi>(ô my ſoul!)</hi> that thou art ſo loath to die? <hi>Why art thou ſo fearfull, ô thou of little faith?</hi>
+               <note place="margin">Mat. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> how often haſt thou thought in thy Meditations, that thou couldeſt welcome Death? And yet when it lookes upon thee, and offers thee ſervice, thou ſhrin<g ref="char:EOLhyphen"/>keſt back, and thy face is pale, and thine eyes looke wilde, as if thou wert amazed: doe thy longings now languiſh? thy hopes and expectations now end? how often haſt thou prayed,<note place="margin">Mat. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> 
+               <hi>Thy kingdome come?</hi> and now the gates are opening, art thou loath to goe? How often hath thy raviſhed heart cry'd out, <hi>Come Lord Jeſus come quickly?</hi>
+               <note place="margin">Rev. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> and now he comes and calls, art thou loath to goe? Doth thy Re<g ref="char:EOLhyphen"/>deemer ſend for thee, and art thou loath to goe? Doe joyes, and crownes, and everlaſting poſſeſſions now expect thee, and art thou loath to goe? Doe Saints and Angels, Patriarchs, and Apoſtles, Mar<g ref="char:EOLhyphen"/>tyrs and Confeſſors, and all the Quire of Heaven deſire thy company, and art thou loath to goe? Away, for ſhame <hi>(ô my ſoul!)</hi> away, rouze up thy ſelf, and let it never be ſaid, that Heathen and Here<g ref="char:EOLhyphen"/>tiques have imbraced Death more cheerfully then thou: let it never be ſaid, Thou haſt incouraged others, and art thy ſelf a coward. A<g ref="char:EOLhyphen"/>way then with all unchriſtian diffidence, and addreſſe thy ſelf with joy and thankfulneſſe to thy glory.</p>
+            <p n="14">14. But (O Lord!) it is thou only that canſt make me willing; thou, by thy Mercies canſt draw me, and by thy judgements canſt drive me; thou canſt wooe me to a better world, and weane me from this. Oh prepare my Soul ſo far for thee then, that it may bid thy meſſenger welcome. Now, that thou O Saviour haſt taſted Death, and ſo ſweetned that cup, let not me be loth to pledg thee. Thou that giveſt both <hi>to will,</hi>
+               <note place="margin">Phil. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> and <hi>to doe,</hi> give them both to me, that I may not only die, but doe it willingly.</p>
+            <p n="15">15. But (O Lord!) <hi>though the ſpirit be willing, yet the fleſh is weak:</hi>
+               <note place="margin">Mat. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 41.</note> my ſoul would draw near with courage and comfort, but my body boggles: ſo many hindrances and hang-backs; ſo many clogs and temptations within me, without me, about me, that if thou O Lord leave me but to my ſelf, I ſhall ſhame my ſelfe, and that name of thine that I have profeſſed. Oh! I cannot welcome Death ſo heartily, ſo
+<pb facs="tcp:59763:7"/>worthily as I ought; inſtead of cheerfull imbracements, I ſhrink in<g ref="char:EOLhyphen"/>ward, and am ſcarce aſhamed to let Death hale me, as if I would make the world belive, that I durſt not die. Lord how ſhall I ſhame and befoole my ſelf, if thou but leave me to my ſelf!</p>
+            <p n="16">16. Now whither ſhall I goe for ſuccour but unto thee O Lord? O God of all Spirits, and of all Fleſh too, make thou willing both my ſpirit and my fleſh to come unto thee: Oh! weaken my fleſh to receive, incourage my ſpirit to contemne Death: The nearer I draw unto my end, let my joyes be the clearer, and my deſires inlarged. Oh draw this dark veile a little, that I may ſee my glory, and then I cannot but deſire it. And O God moſt holy, O God moſt mighty, O holy and mercifull Redeemer, ſuffer me not at my laſt hour for any fear or paine of Death to fall from thee.</p>
+            <p n="17">17.<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 4. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</note> O Lord, thou ſeeſt how ſoon I ſink in theſe waters, unleſſe thou help and hold me up. Oh! ſhew thy ſtrength then in my weak<g ref="char:EOLhyphen"/>neſſe; help him that cannot help himſelf; and let all the praiſe and glory be thine owne. I aske no more then what thou haſt given to others, and promiſed to me, and haſt given many earneſts by many for<g ref="char:EOLhyphen"/>mer deliverances: perfect the work thou haſt begun, that thy praiſe, and my happineſſe may be conſummate together.</p>
+            <p n="18">18. Yea, O Lord, I know it ſhall be ſo, I cannot only build upon thy promiſe, but prove by former deliverances that thou wilt ſave me now. I cannot fear drowning in theſe waters while my head is a<g ref="char:EOLhyphen"/>bove. O Saviour! thou haſt conquer'd and triumph'd over Death, how can I then fear a vanquiſh'd adverſary? Thou haſt overcome Death both for thy ſelf and me, how then can I miſcarry? <hi>O Death,</hi> then <hi>where is thy ſting!</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 15. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 55. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 21 <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 4.7 <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 4.8.</note> 
+               <hi>O Grave where is thy victory?</hi> O my ſoul, thou haſt <hi>marched valiantly!</hi> Thou haſt <hi>fought a good fight,</hi> and haſt <hi>finiſhed thy courſe, henceforth is laid up for thee a crown of glory. I will lay me down therefore, and ſleep in peace, ſince thou O God makeſt me to dwell in ſafety.</hi>
+            </p>
+            <p n="19">19.<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 15.57.</note> And now <hi>thanks be unto God who hath given me victory through Je<g ref="char:EOLhyphen"/>ſus Chriſt our Lord:</hi> And bleſſed be that Redeemer who hath bought off the bitterneſs and torments of my Death with his own: Bleſſed be he that hath made the bed of ſickneſs tollerable; of Death, eaſie: Bleſſed be that <hi>ſtrength of my ſalvation who hath covered my head in the day of battell:</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 140.7</note> 
+               <hi>O Lord thou art my God and I will thanke thee; thou art my King,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 1.8.28.</note> 
+               <hi>and I will praiſe thee.</hi>
+            </p>
+         </div>
+         <div n="2" type="meditation">
+            <pb facs="tcp:59763:7"/>
+            <head>Of Life Eternall.</head>
+            <p n="1">1. WHat wilt thou muſe on (O my ſoule!) what imploy<g ref="char:EOLhyphen"/>ment ſhall I find thee, or thou find thy ſelf? what meditations more worthy thy ſelf next the glory of thy Maker, then the glory of thy ſelf? Aſcend then (O my ſoule!) in thy thoughts to that <hi>Nebo</hi> and <hi>Piſgag,</hi>
+               <note place="margin">Deut. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> whence thou maieſt deſcry a glimpſe of that Land of bliſſe and promiſe, which thy faith believeth, and thy heart deſireth.</p>
+            <p n="2">2. And what is that life of glory but a full fruition of God and thy ſelf, with the ſociety of Saints and Angels? the bleſſed viſion of the all-glorious Deity: Thy union to him, thy enjoying of him, and re<g ref="char:EOLhyphen"/>joycing in him: A life that is all life, and hath nothing of death or ſorrow in it, where are <hi>fulneſſe of joies and pleaſures for evermore.</hi>
+               <note place="margin">Pſal. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> A life whoſe glory cannot be deſcribed till it be injoyed,<note place="margin">1 Cor. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> for <hi>eye hath not ſeen, nor eare heard, nor hath it entred into the heart of man to conceive thoſe treaſures of happineſſe that God hath laid up for them that love him:</hi> A life whereunto not our light afflictions onely which are but for a moment,<note place="margin">Rom. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> but whereunto the beſt things of this life, yea our life it ſelf is not worthy to be compared.</p>
+            <p n="3">3. And this is the laſt of lives, and is a life everlaſting: Our firſt Life is a life of Nature, the marriage of ſoule and body together: Our next Life is a life of Grace, an eſpouſing of the Soule to Chriſt: Our laſt Life is a life of Glory, when Soul and Body are married unto God for ever. The Soule is begotten to this life, at our regeneration; it is borne at our death, or ſeparation of Soule and Body: from thence to the reſurrection, and re-union of the Body to the Soule, it is in its childhood; and then enters it into its full perfection. In this glory there may be degrees, there can be no imperfection; though ſome ſhine like ſtarres of greater, ſome of leſſer magnitude, yet all ſhall ſhine: ſome ſhal hold more glory, ſome leſſe, yet all ſhall be full: he that hath leaſt ſhall neither want himſelf, nor annoy him that hath a larger portion.</p>
+            <p n="4">4. And whence is this life eternal but from him who is the fountain both of life, and of eternity? The Father hath made it and decreed it: The Son hath merited and procured it: The Holy Ghoſt hath ſealed and delivered it. Not thy Free-will in doing good, but his free Mercy in Electing thee is that which gives thee title to this Glory: Thou art
+<pb facs="tcp:59763:8"/>not happy becauſe thou haſt been holy, but thou art holy becauſe thou art ordained to be happy. And as this Glory, ſo all things tending thereunto are from God: he that ordained thee to Glory, hath given thee a Saviour to give thee this Glory; he hath given thee Faith to bring thee to this Saviour; he hath given thee his Word to bring thee to this Faith; he hath given thee his Merit, he hath given thee his Spi<g ref="char:EOLhyphen"/>rit, he hath given thee the hive, and the honey too. Look up unto God then (O my ſoul!) as the beginner and the finiſher of thy Glory; and when thou art raviſhed with the glory of the worke, forget not to magnifie him who is the Authour. And indeed, he is both the Authour of thy glory, and thy glory too it ſelf; in him is all thy happineſſe. Canſt thou want any thing then (O my ſoule!) that injoyeſt him who is all perfection? Canſt thou thirſt while thou dwelleſt in the fountain, and well-ſpring of living Waters? Canſt thou hunger whilſt thou art filled with Manna, and bread of life? Canſt thou be naked, whilſt thou art wrapt in glory?<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 6.11.</note> Canſt thou be ſad (O my ſoule!) whilſt thou art in his preſence where <hi>is fulneſſe of joy, and pleaſures for evermore?</hi> yea, thou thy ſelf art now ſufficient in him who is All-ſufficient.</p>
+            <p n="5">5. But what are the commodities of this kingdome of Glory? ſurely the fruit muſt needs be both wholſome and pleaſant that grows upon this Tree of life: if the kingdome of God upon Earth be <hi>righ<g ref="char:EOLhyphen"/>teouſnes, and peace,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 14. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 17.</note> 
+               <hi>and joy in the Holy Ghoſt,</hi> oh! what is that kingdome then in Heaven? All things muſt needs be pure there, where no un<g ref="char:EOLhyphen"/>clean thing can enter; and they muſt needs alſo be as peaceable, where there is no roome for jarre or diſcord; and ſhall they not alſo be as pleaſant?<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 21.4.</note> when ſorrow and ſadneſſe ſhall be no more? ſhall not our <hi>eyes</hi> ſtand full with joy when all <hi>tears</hi> are wiped off? When our hearts are then ſo merry, how ſhall we chuſe but ſing? or how can our mirth but be melodious? and how can our ſongs but be continuall, ſince our joyes are everlaſting? Our <hi>Hoſannah's</hi> and <hi>Hallelujah's</hi> ſhal never ceaſe, becauſe our joyes ſhall never end; and our joyes are everlaſting, be<g ref="char:EOLhyphen"/>cauſe our glory is eternall: nor can we be weary of hearing, or ma<g ref="char:EOLhyphen"/>king that muſick which none can beare a part in and not be happy.</p>
+            <p n="6">6. Who now are the Inhabitants of this happy Land, the Inheri<g ref="char:EOLhyphen"/>tours of this bliſſe, the Citizens, and Subjects of this City of God? who are they but Saints and Angels? glorious Spirits, or bodies tranſ<g ref="char:EOLhyphen"/>formed into a ſpirituall perfection? <hi>Chriſt is King and God, and he makes his ſubjects Kings,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.40.</note> 
+               <hi>and</hi> (as it were) <hi>Gods too, that they may reigne with him for ever and ever.</hi> Theſe bodies of ours which were <hi>earthy</hi> are
+<pb facs="tcp:59763:8"/>now <hi>heavenly,</hi> this <hi>terreſtriall</hi> is become <hi>celeſtiall,</hi> and this <hi>naturall body</hi> is made a <hi>ſpirituall.</hi> And thus are we <hi>made fit to accompany Angels,</hi> and <hi>hold fellowſhip with Prophets and Patriarchs:</hi> theſe <hi>immortall crownes of glory</hi> are not onely <hi>prepared for us,</hi> but we are alſo <hi>prepared for them,</hi> and made able <hi>to receive that bliſſe</hi> of which before we were not onely <hi>unworthy,</hi> but <hi>uncapable.</hi> Our <hi>ſoule</hi> and <hi>body</hi> are not onely <hi>reunited,</hi> but <hi>improved</hi> to ſuch an <hi>inlarged perfection,</hi> that they are able not onely to <hi>receive,</hi> but <hi>retaine</hi> their fill, their full of <hi>glory;</hi> even of that <hi>tranſcen<g ref="char:EOLhyphen"/>dent glory which is ſo pure and bright,</hi> that it would <hi>rather aſtoniſh,</hi> then <hi>delight the beſt of mortalls.</hi> What <hi>this bliſſe</hi> indeed is, we <hi>doe not,</hi> we <hi>cannot know</hi> untill <hi>we have it,</hi> then ſhall we <hi>comprehend it</hi> as well as be <hi>comprehended by it:</hi> here <hi>we know</hi> but <hi>in part,</hi> then ſhal <hi>we know</hi> it <hi>fully,</hi> and it is <hi>not leſſe then half our happineſſe</hi> that we are made <hi>ſo capable of knowing</hi> and <hi>receiving it.</hi>
+            </p>
+            <p n="7">7. Nor is that a ſmall <hi>bliſſe</hi> or <hi>glory</hi> that ariſes from the <hi>very place</hi> wherein <hi>we enjoy it:</hi> The <hi>majeſty</hi> even of <hi>earthly Princes</hi> is oft ſeen in their <hi>ſtately Palaces;</hi> they have had their <hi>houſes of Cedar and Ivory.</hi> What is that <hi>Palace</hi> then that the <hi>God of Majeſty</hi> hath made for him<g ref="char:EOLhyphen"/>ſelf? when we ſay, that <hi>this City of God hath her walls of Jasper,</hi>
+               <note place="margin">Rev. 2 <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> 
+               <hi>her buildings of gold, her foundations pretious ſtones, her gates pearle;</hi> theſe are but low expreſſions ſtooping to our weak capacities:<note place="margin">Pſal. 8 <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> 
+               <hi>Oh! how excellent things are ſpoken of thee thou City of God?</hi> and yet all ſhort of <hi>thy Excellency!</hi> Even <hi>this world</hi> hath ſome glimpſes and reflexions <hi>of glory;</hi> her greateſt is in <hi>her Canopie,</hi> her <hi>ſealed roofe</hi> that is ſo beſpangled with <hi>glorious ſtarres;</hi> and yet even this is but <hi>the pavement of that City;</hi> What then is her Canopie? <hi>Bleſſed, thrice-bleſſed, ô God, are they whom thou ſhalt count worthy to come under thy roofe.</hi>
+            </p>
+            <p>And as <hi>the place,</hi> ſo <hi>the Company</hi> much more adds to <hi>our felicity:</hi> it is but <hi>halfe an happineſſe</hi> to be <hi>happy alone:</hi>
+               <note place="margin">Gen. 2 <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> 
+               <hi>When Adam had a Paradiſe to dwell in,</hi> and <hi>a world</hi> beſides <hi>to encompaſſe him,</hi> yet he was <hi>not perfect</hi> till he <hi>had a Partner.</hi> It is not ſo much <hi>a comfort</hi> to have <hi>Companiens of our miſeries,</hi> as <hi>of our joyes;</hi> of which we loſe <hi>the better part</hi> if we have not ſome to <hi>beare a part.</hi> We have <hi>Friends and Companions in this life,</hi> with whom <hi>ſometime</hi> we have <hi>diſtaſts and diſcontents,</hi> yet <hi>when Death calls us,</hi> how loath are we <hi>to go</hi> and <hi>leave them! Death</hi> oft times hath not <hi>a greater grief</hi> then this, <hi>to leave our Friends behind us.</hi> Oh! how <hi>glad ſhall we be to meet again in that other world, where our joyes and loves ſhall be redoubled? to meet them in the midſt of Myriads of Saints, and Legions of Angels!</hi> to meet them with <hi>God our Father,</hi> and <hi>Chriſt our
+<pb facs="tcp:59763:9"/>Saviour,</hi> and that <hi>bleſſed Spirit who is the God of joy and love:</hi> all which, have <hi>their full of felicity,</hi> and yet we have ne'r the leſſe: <hi>Their joyes and glories</hi> ſhall not <hi>over ſhadow</hi> or eclipſe, but <hi>adde</hi> to ours: They ſhall <hi>joy in our happineſſe,</hi> and we <hi>rejoice in theirs,</hi> for none ſhal think <hi>others much</hi> or their <hi>owne little.</hi> The <hi>joy</hi> muſt needs be anſwerable to the <hi>glory of the ſight,</hi> to ſee the <hi>antient Kings and Patriarchs, Prophets and Apoſtles</hi> in their <hi>glorious manſions:</hi> to meet familiarly with the <hi>Fathers of the pri<g ref="char:EOLhyphen"/>mitive and preſent Church!</hi> to <hi>ſee</hi> thoſe valiant and renowned troops <hi>of Martyrs and Confeſſors!</hi> to <hi>ſee</hi> thoſe <hi>ſquadrons of Angels</hi> marſhalled in their <hi>glorious orders!</hi> nay, to <hi>ſee</hi> and be <hi>able</hi> to <hi>looke</hi> upon <hi>God him<g ref="char:EOLhyphen"/>ſelfe!</hi> Oh! my ſoule! how canſt thou <hi>think on this</hi> and not be raviſh'd <hi>with deſire</hi> to be <hi>added to this Company?</hi> But that which <hi>crownes our comfort,</hi> and <hi>fills our joy unto the brim,</hi> is, this <hi>our happineſſe is eternall, e<g ref="char:EOLhyphen"/>verlaſting:</hi> That is not <hi>halfe an happineſſe</hi> that hath <hi>an end,</hi> a period; nay, it adds unto <hi>our grief</hi> if we might have been, to <hi>our miſery</hi> if we have <hi>been happy,</hi> and are not. In this life our <hi>wine</hi> is <hi>mixt with teares, our mirth with mourning;</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 14.13</note> we oft <hi>laugh</hi> and <hi>cry</hi> in leſſe then an houre; yea ſometimes <hi>even in laughter the heart is ſorrowfull, and the end of mirth is heavineſſe.</hi> But our <hi>joyes in Heaven</hi> are as <hi>perpetuall,</hi> as they are <hi>pleaſant;</hi> our <hi>glory</hi> as <hi>permanent,</hi> as <hi>excellent:</hi> Nor can <hi>they</hi> but be <hi>e<g ref="char:EOLhyphen"/>verlaſting</hi> ſince they ſpring from a fountaine that cannot drie.<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 84.1, 10.</note> 
+               <hi>Oh how amiable are thy dwellings on Earth, ô Lord of hoſts! how doth</hi> an holy ſoule <hi>long to go into thy courts!</hi> for <hi>one day in thine houſe is better then a thouſand otherwhere.</hi> Oh! what then are millions of yeares in thy courts in Heaven? yea, what is <hi>Eternity?</hi> in compariſon whereof mil<g ref="char:EOLhyphen"/>lions of yeares are not a moment.</p>
+            <p n="8">8. Now this <hi>life of glory</hi> will ſeem to give the greater luſtre, if we doe but compare it with thoſe other <hi>lives of the middle and lower re<g ref="char:EOLhyphen"/>gions.</hi> And firſt, what is this World but a ſhip of vanity, floating upon a ſea of miſery? whoſe richeſt fraught, and beſt commodities, are not better then thoſe of <hi>Solomon</hi> from <hi>Tharſhiſh, Gold and Silver, and I<g ref="char:EOLhyphen"/>vory, and Apes,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ng. 10.22.</note> 
+               <hi>and Peacocks:</hi> Riches, honours, pleaſures. And what are theſe at the beſt but <hi>vanity?</hi> what is Gold and Silver but red and white clay? what is honour, but a bubble? what is pleaſure, but a ſquib? or worſe, an <hi>Ignis fatuus?</hi> And if this be the beſt, what is the reſt? if this be her Welcome, what is her Farewell? if when ſhe meet us ſhe be <hi>vanity,</hi> ſhe cannot be leſſe then <hi>vexation</hi> when ſhe leaves us. When the ruſt and the canker hath conſumed thy gold and thy ſilver;<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 6.19.</note> when Theeves have plunder'd thy goods, and worſe then Theeves, have ſe<g ref="char:EOLhyphen"/>queſter'd
+<pb facs="tcp:59763:9"/>thy Lands; when thy State is wrack'd, &amp; thy Credit crack'd; when thine honours are flowen, and thy pleaſures gone, then, thou ſhalt not need an <hi>O Edipus</hi> to tell thee, <hi>what this World is.</hi> And next, what is our whole <hi>Life on Earth</hi> but a vaſt compoſure of ſinne and mi<g ref="char:EOLhyphen"/>ſery? A <hi>couple of Harlots</hi> that can accord together to worke our miſ<g ref="char:EOLhyphen"/>chief,<note place="margin">1 Kin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> onely here's the contention, which of the twaine has the grea<g ref="char:EOLhyphen"/>teſt right and ſhare in us; each pleads hard for all, and will not be contented with an half: and ſurely <hi>ſinne</hi> would have the greateſt part, were it not that <hi>ſin it ſelf is a miſery.</hi> What are our bodies but bundles of diſeaſes, every member having more infirmities then arteries? it is almoſt as impoſſible to know them, as to cure them, and more impoſ<g ref="char:EOLhyphen"/>ſible not to have them; if we could, yet it would be more then tedious for to name them, how tedious then to feel them? And yet who is he that is not continually accompanied with ſome one or more of them, our diſeaſes (which is ſtrange) being more diverſe then our Deaths: and (which is more ſtrange yet) our grounds of grief within our <hi>little world</hi> (our ſelves) being more then all the <hi>great world</hi> beſide can give us? Now then (O my ſoule) thinke ſeriouſly on thy joyes above, and thy miſeries here, and then neglect Heaven if thou canſt, and dote on Earth. But if neither ſorrows within thee, nor troubles about thee doe not throughly affect thee, thinke on thoſe horrours of that lower world, if thou thinkeſt thoſe thoughts will not affright thee.<note place="margin">Iſa. 6 <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> 
+               <hi>Where the damned are ever dying, never dead; ever burning, never conſumed; ever tumbling downe, never come to the bottome; where the Worme dieth not, but her continuall gnawings make way for continuall gnaſhings.</hi>
+               <note place="margin">Mat. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> 
+               <hi>Where diſmall feares and terrours, frights and amazements, utter darkneſſe and fire unquenchable, with rivers of brimſtone; where roarings and howlings,</hi>
+               <note place="margin">Mat. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> 
+               <hi>yellings and ſhriekings,</hi>
+               <note place="margin">Iſa. 3 <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> 
+               <hi>and curſings of ugly Fiends and gaſtly Ghoſts are but parcels of torments;</hi> and all that men can ſay are not halfe expreſ<g ref="char:EOLhyphen"/>ſions of thoſe woes which none can know but thoſe that feel them. And that which is heavier then all the reſt, this infernall Vault is ſo thick ſeeled with Deſpaire, that there is no getting out for ever. Think on this then (O my ſoule) and then think again, that there was but one ſtep between thee and this Death, and if thy gracious Saviour had not ſtept in that ſtep, and catch'd thee, thou hadſt fallen irrecoverable; yet this not half; he not onely redeem'd thy <hi>life from Hell, but crowned thee</hi> alſo in Heaven <hi>with mercy, and glory everlasting.</hi>
+               <note place="margin">Pſ. 10 <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> Thinke on this double mercy (O my ſoule) and be double thankfull, double happy.</p>
+            <p n="9">
+               <pb facs="tcp:59763:10"/>9.<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 30</note> But whereunto ſhall we liken this <hi>Kingdome of God,</hi> or unto what ſhall we compare it? It is like a Sea-ſcourged Marchant, that hath been long toſſed on the raging waves by the churliſh windes; beaten with many a billow; daſh'd on many a rock; threatned with many a wrack and catarack; that has gone over many a gulf; paſt over many a pool; fought with many a Pirate; and now at laſt richly fraught is entred with joy, and triumph into the ſafe haven and harbour of his own City. It is like unto a <hi>Joſeph</hi> impriſoned in a dun<g ref="char:EOLhyphen"/>geon, in ſtocks and irons; and at laſt brought forth and ſet among Princes,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>4. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 2.2</note> and made to inherit a throne of glory. It is like unto a <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> hunted, perſecuted, baniſhed, and at laſt returne home, and be crowned a King in <hi>Hieruſalem.</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>5.9</note> It is like a year of <hi>Jubile</hi> after fifty years bondage. Like a return from <hi>Babylon</hi> after ſeventy years cap<g ref="char:EOLhyphen"/>tivity, to a Temple more glorious then the firſt. Or like a <hi>Sabbath</hi> of holy reſt,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 6. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 20</note> after a week of hard labour. It is like a beggarly <hi>Lazarus</hi> full of ſores, that fain would have ſome crums of comfort from the ſeeming riches of this world, but can get none tell he have his fill in <hi>Abrahams</hi> boſome.<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 1</note> Or like that other <hi>Lazarus,</hi> ſick, &amp; dead, and buried, and perhaps ſtinking in the grave of this Earth, the cold, and hard, and heavy ſtone of Miſery and Neceſſity preſſing him down, till the voice of God cry, <hi>Lazarus come forth.</hi> It is like liberty and pardon to a condemned priſoner. It is like a ſumptuous Wedding-feaſt at the marriage of a Kings ſon, who hath married not the rich and beauti<g ref="char:EOLhyphen"/>full Daughter of a Noble, nor the homely Daughter of a Citizen or Artizen, but the deformed Daughter of a miſerable Beggar; for ſuch were we, whoſe firſt parents, by their fall, bemired both them<g ref="char:EOLhyphen"/>ſelves and us, who ſince have made our ſelves more filthy by continuall wallowing;<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 16. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 4.</note> thus are we naked, and wounded, and in our blood, even to the loathing of our ſelves; no eye pitties, neither Prieſt, nor Levite can help us,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 1.</note> till the Son of God come, who has compaſſion, who waſhes off our mud with his blood, who takes our infirmities, and cures our deformities, wraps us in the garments of his own righ<g ref="char:EOLhyphen"/>trouſneſſe, gives us his grace and comelineſſe; and then lookes, and loves, and marries for ever, and keeps an everlaſting wedding, at which all rejoyce, but devils and damned. Theſe are glimples of our glory if ſo much, ſutable to our ſhallow fancies; here we know but in part,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 33.</note> and ſee darkly: even the Apoſtles themſelves, though they had ſeen the transfiguration; yet when they began to ſpeak thereof, talk they know not what: And S. <hi>Paul,</hi> when he had been in Paradice,
+<pb facs="tcp:59763:10"/>and returned, though he wanted neither memory nor expreſſions,<note place="margin">2 Co<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> yet he can tell us only, that he had been there, but what he ſaw or heard was impoſſible toutter. Content thy ſelf then (O my ſoul!) with thy glory in that manner, and meaſure, and method as God ſhall give it thee.</p>
+            <p n="10">10. How ſweet a thing is Life! even the naming of it invites to cheerfulneſſe, and its contrary, is of a dull ſound; even this Life, which is not only temporall, but miſerable too; yet becauſe it is a Life, how loath are we to leave it? How ſhall we joy in our life, then when temporall ſhall be changed to eternall, and miſery to glory?<note place="margin">Eccle<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> How ſweet a thing is Light! how pleaſant to behold the Sun! how near are light and life of kind! when even ſtones, becauſe they have light in them, are ſaid to be lively, and are held for jewels! How excel<g ref="char:EOLhyphen"/>lent is the eye! which is not only the beauty of the face,<note place="margin">Mat. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> but the light of the body, what could we doe without it? how much of our hap<g ref="char:EOLhyphen"/>pineſſe conſiſts in light, even here! how much more hereafter! How ſweet a thing is glory! even the painted glory of this world, which moſt time is but a bare name and ſhaddow, yet is oft preferred be<g ref="char:EOLhyphen"/>fore life it ſelf. And yet how little a place doth this glory fill; how ſhort a time doth it laſt? how hardly is it got! how quickly forgot! how ſubject to be miſtaken! fond man, oft thinking he imbraces his honour when he hugs his ſhame. Our glory here at beft, is but a gloe<g ref="char:EOLhyphen"/>worme, hereafter it ſhall excell the Sun. How ſweet a thing is our Country! and is preferred before our Parents, our Children, or our ſelves: How beloved a thing is our home! he is ſenſleſſe, or worſe, that doth not highly prize it: And yet even in our Country here we are but Pilgrims, at our home we are but ſtrangers; Heaven is our Country, and our Home, in compariſon whereof, the richeſt Palace on earth is homely. How ſweet a thing is a Crowne! how deſirable a Kingdome! How eagerly doe ambitious men indanger their bodies, and damne their ſoules, to have a pull at one of them! And yet what are Earthen Crownes, but wreathes of thornes? clouts ſtuft with cares? and how oft have thoſe weighty Caps broke the necks of thoſe that wore them? Not ſo with our Crownes of glory, who as far ex<g ref="char:EOLhyphen"/>cell theſe in ſecurity, as they doe in majeſty: for none ſhall ever envy them, but thoſe that ſhall never come neere to trouble them. Let the thought of theſe glories then (O my ſoule) be thy joy, till the time come thou ſhalt enjoy them.</p>
+            <p n="11">11. We can but glance and gueſſe at theſe ſtately glories; as <hi>eye
+<pb n="6" facs="tcp:59763:11"/>hath not ſeene them, nor eare heard them, neither can the heart conceive them,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 1.9</note> 
+               <hi>what good things be thoſe that God hath provided for thoſe that love him,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 1.19</note> even before the <hi>ſons of men:</hi> to pleaſe the ſenſe, but cannot fill our little heart. But what better things are thoſe he hath provided for them before the ſons of God, to fil and ſatisfie their inlarged ſoules! whereunto not our <hi>light afflictions only which are but for a moment,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 8.18</note> but the greateſt bleſſings this world hath, are not worthy to be compared. What can the heart deſire more, then to be rid of evil and enjoy good? both are here;<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 6.11</note> here is <hi>fulneſſe</hi> of that which cauſes <hi>fulneſſe of joy, and pleaſures for evermore.</hi> Here is none of that which may cauſe ſorrow: not onely all <hi>teares,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 21.4.</note> but <hi>all cauſe of teares ſhall be wiped away.</hi> nor can any thing enter here that is ſoule or hurtfull. Ceaſe not theſe thoughts (O my ſoule) till they have raiſed thee to joy and thankfulneſſe.</p>
+            <p n="12">12. Now farewell then fond pleaſure, thou painted Witch: Fare<g ref="char:EOLhyphen"/>well baſe earth,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 13. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 46.</note> thou unweildie bulk: and farewell Fleſh with thy fil<g ref="char:EOLhyphen"/>thy luſts. Fly away vaine-glory with thy Peacock-feathers; Avaunt ſin, Avoid Satan, I have found a prize, a Pearle, I will ſell all and buy it. Oh come then into my armes (my Deare!) draw neere, my Joy, and raviſh him that cannot raviſh thee. Oh let my raviſht thoughts at<g ref="char:EOLhyphen"/>taine ſome glimpſes (though at too far a diſtance) of thy rare beauties. Who can think on thee, and not long for thee? Who can hope for thee, and not think thoſe longings long? Who can love thee, and not be happy? But how happy thoſe be that enjoy thee, no tongue can tell. Oh beare me on thy wings, (Dear Love) while I lightly trample over the dung of this world: Smile but upon me, and I ſhall cheerfully paſſe the gates of death. He knowes thee not, that loves thee not. He loves thee not, that will not die to come unto thee.</p>
+            <p n="13">13.<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 26.</note> But alas, though <hi>the Spirit be willing, the Fleſh is weake:</hi> what<g ref="char:EOLhyphen"/>ever the matter be, my ſoule is heavie, as if there were ſome earth in that too: Mine eyes are dim, I cannot ſee thoſe glaunces of thy beauty which I might ſee: Mine ears are deafe too oft to thy ſweet motions: My pallate is dull, when I ſhould taſte how gracious my Lord is: My ſmell is not well taken with the favour of his precious ointments: And all the Arteries of my ſoul are oft time ſo benummed, they can neither feele themſelves nor thee. Oh heavens! whence is the cauſe of all this coldneſſe? is my ſoul ſo much in love with my body, it cannot leave it a little to enjoy it ſelf alone? is my body ſo much of kind unto the Earth, that it muſt needes be more heavy then it? and muſt my ſoul needs be heavy too for company? Are the treaſures and
+<pb facs="tcp:59763:11"/>pleaſures of this world ſuch goodly things, thou canſt not ſequeſter thy thoughts from them? Or are the joyes of heaven ſo poore, thou art loath to ſpend thy thoughts upon them? Or doſt thou beleeve there are none there, or none for thee, and therefore wilt not labour in vain? Surely theſe are not the cauſes, God and my ſoule know: but either the graces of heaven withhold their dewes, and veyle their beauty, and their influence; or elſe my ſtony, leaden, or at leaſt my fleſhly heart, drawes not in their bleſſing: Or elſe God that made heaven, and gives it, will give it freely, we ſhall not be ſuſpected to deſerve it, ſo much as in a ſtrong deſire: Or elſe the Divine wiſdome and goodneſſe ſees that if we ſhould have theſe bleſſed viſions and revelations in a<g ref="char:EOLhyphen"/>bundance we ſhould be <hi>exalted above meaſure,</hi>
+               <note place="margin">2 <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> and therefore ſends this ballaſt in the fleſh to humble us. This is thy condition (O my ſoul!) thou complaineſt not without a cauſe, and mai'ſt well be ſorry for thy heavineſſe.</p>
+            <p n="14">14. Thou ſeeſt (O Lord!) that I am ſo <hi>weary and heavy laden,</hi> I cannot travell upon this <hi>holy hill;</hi> Oh! that thou wouldeſt <hi>eaſe me,</hi>
+               <note place="margin">Mat. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 2</note> as thou haſt promiſed! Oh! take off my burden, adde to thy ſtrength: pluck off the plumets of my fleſh, and put to the feathers of thy ſpirit, whoſe wings are ſilver, and her feathers gold:<note place="margin">Pſal. 6. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 57.</note> 
+               <hi>Oh! that I had the wings of that Dove, then ſhould I flie away.</hi> Oh! that I could but get up this <hi>Nebo,</hi> and ſee my <hi>Canaan;</hi> how dearly ſhould I love,<note place="margin">Deut. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> and long for her! how boldly for her ſake ſhould I bid defiance unto whatſoever this wilderneſſe, or world can tempt me with!</p>
+            <p n="15">15. But (O Lord!) thou knoweſt my ſoul neither hath this happi<g ref="char:EOLhyphen"/>neſſe, nor can deſerve it: yea, neither can deſerve to have it, nor to de<g ref="char:EOLhyphen"/>ſire it. But look not on my merits, but on thy mercy: if I had my deſert, I ſhould have been long ere this paſt hope or help of Mercy: That thou haſt ſaved me from Hell, is a Mercy no leſſe then infinite; but that thou ſhouldeſt alſo give me Heaven, is a Mercy every way like thy ſelf. How can I deſerve ſo great a Glory, that am not able to aske, or worthy to beg the leaſt of thy Mercies! How is my ſoul benummed with Fleſh! bemired with Earth! beſetted with Sin! Lord thou art my hope, my help: help then thy ſervant that cannot help himſelf; and as thou haſt prepared glory for me, ſo Lord prepare me for my glory.</p>
+            <p n="16">16. <hi>O God the Father of Light, and Life, from whom every good and perfect gift deſcendeth;</hi> take this work into thine hand,<note place="margin">Iam. 1 <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> and the glory of it: perfect what thou haſt begun: O ſave my ſoul that putteth
+<pb n="8" facs="tcp:59763:12"/>her truſt in thee. Wean her from the frothy milk of this world; feed her with that Mannah that came down from Heaven! thou that put<g ref="char:EOLhyphen"/>teſt <hi>Clay</hi> into the <hi>blind mans eyes</hi> and cured them,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 9.6</note> waſh out that clay in mine, wherewith they are ſo bedaubed, they can neither ſee Hea<g ref="char:EOLhyphen"/>ven, nor thee. It is thine hand that made the Heavens, and it is thine hand that gives them, and it is the ſame hand againe that lifts mine heart unto them: O Lord! though thou makeſt not mine heart heavy, yet thou findeſt it ſo: thou haſt it in thine hand, turn it, and tune it as pleaſe thee: make it light by the light of thy counteuance: quicken it by thy Spirit: take out her earth; put in thy fire: carry her up to <hi>Nebo:</hi> ſhew her <hi>Canaan:</hi> make her weary of this wilderneſſe: and inlarge her longings after Heaven: leave her not till thou make her <hi>pant</hi> after thee,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 42.</note> 
+               <hi>as the hart after the waters;</hi> nor let her thirſt ever be abated till ſhe be filled with the preſence of thee, O God.</p>
+            <p n="17">17.<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 18 <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 27.</note> And ſince I have begun to ſpeak unto the Lord of glory, who am but duſt and aſhes, pardon thy ſervant, if while he plead with thee, he urge thee with thy promiſe. Haſt thou not ſaid (O Lord!) that thou wilt give me life?<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 6.10</note> haſt thou not bid me pray, <hi>Thy kingdome come?</hi> and haſt thou not promiſed <hi>to give to them that ask,</hi> and <hi>open to them that knock?</hi> haſt thou not alway declared thy ſelf, a God rich in mercy, and delights to ſhew it? I beg that which thou knoweſt I want, I periſh without it; thou haſt in abundance, enough to ſpare, to make Millions rich and happy: I can have ſupply from none, from nothing elſe, the whole world beſides is Miſery, if thou give not, I ſhall never have it: I beg no more but what thou haſt given others: how many thouſand Saints and Martyrs haſt thou crown'd with glo<g ref="char:EOLhyphen"/>ry? And (pardon me O Lord, and I ſhall ſpeak once more) haſt thou not bought Heaven for me, and paid for it? a good price too, and ſufficient? Oh! let theſe perſwade with thee, and let thy mercy in thy well-beloved Son prevaile; in him look down on me, and make me look up to thee; with his blood cement and link all thy gra<g ref="char:EOLhyphen"/>ces in a chain, and let them down to me, that laying hold thereon, I may be drawne up to my glory.</p>
+            <p n="18">18. Yea, be thou confident (O my ſoule!) it ſhall be ſo: <hi>Faithfull is he that hath promiſed,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or. 1.9. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or. 1.20. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 3.3.</note> 
+               <hi>even God that cannot lie:</hi> all thy ſinnes cannot make his grace of none effect: he counts his promiſe as a debt, and will ſurely pay it; yea, he hath not onely bought Heaven for thee, but bought thee alſo for Heaven, and given earneſt for thee, the graces
+<pb n="12" facs="tcp:59763:12"/>of his Spirit. Be thou ſure (O my ſoule!) thy King and Saviour that hath fought ſo valiantly, and paid ſo dearly for thy redemption,<note place="margin">2 Cor. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> will not now loſe thee. <hi>Who ſhall ſeparate thee</hi> from this love of God?<note place="margin">Rom. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> who can pull thee from thy glory? if thy ſinnes cannot, thy afflicti<g ref="char:EOLhyphen"/>ons ſhall not: Go to thy reſt then (O my ſoule!) and there be thank<g ref="char:EOLhyphen"/>full.</p>
+            <p n="19">19. <hi>Now praiſe the Lord (ô my ſoule) and all that is within me bleſſe his holy name. Bleſſe the Lord (O my ſoule) and forget not all his benefits.</hi>
+               <note place="margin">Pſ. 103 <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 2, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> Who <hi>pardoneth all thy ſinnes,</hi> and <hi>healeth all thine infirmities;</hi> which <hi>hath redeemed thy life from deſtruction, and crowned thee</hi> too <hi>with everlasting mercies. Oh! what ſhall I render unto the Lord for all his benefits towards me?</hi> What ſhall I? what can I render?<note place="margin">Pſ. 116 <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> What can I give thee (O God) which is not thine owne already? Thou askeſt mine <hi>heart;</hi> thou haſt it; I give it thee, and thanke thee too with all mine heart. Oh!<note place="margin">Pro. 23 <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> that it were worthy thy acceptance; O Lord thou doſt accept it as it is, and therefore <hi>My ſoule doth magnifie the Lord,</hi>
+               <note place="margin">Luk. 1. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> 
+               <hi>and my Spirit rejoy<g ref="char:EOLhyphen"/>ceth in God my Saviour; for he hath</hi> highly <hi>exalted the low eſtate</hi> of his ſervant; <hi>he that is mighty hath done great things</hi> for me, <hi>and holy is his name;</hi> and bleſſe be that God who hath made me bleſſed to all eter<g ref="char:EOLhyphen"/>nity. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:59763:13"/>
+            <pb facs="tcp:59763:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
